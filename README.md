@@ -99,7 +99,7 @@ Hisham = {
 
 
 
-## 💬 C — Production Chatbot & MLOps Pipeline
+## 💬 C — Production Chatbot 
 > *Configuration-driven conversational AI with DVC reproducibility, research-to-production architecture, and dynamic prompt templating.*
 
 <table align="center">
@@ -178,7 +178,7 @@ Hisham = {
 
 
 
-## ⚙️ E — End-to-End MLOps & Cloud Deployment
+## ⚙️ E — End-to-End ML Pipeline
 > *Production-grade ML pipeline with MLflow/DagsHub tracking, modular configuration, and AWS CI/CD deployment via Docker and GitHub Actions.*
 
 <table align="center">
